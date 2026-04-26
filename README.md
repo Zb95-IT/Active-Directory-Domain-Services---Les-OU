@@ -10,7 +10,7 @@
 ## 1. OU utilisateurs
 L’unité d’organisation **Wilders_students** contient bien le compte utilisateur **Wilder1**.
 
-
+<img width="461" height="292" alt="51d09667-f383-4414-9acc-af39631bd84c" src="https://github.com/user-attachments/assets/c6df8ebb-32e8-4707-af65-bcb7f3abe9a2" />
 
 ---
 
@@ -41,4 +41,4 @@ La commande `whoami` montre que la session ouverte sur le client est bien celle 
 <img width="370" height="173" alt="77da97b1-7a13-46d2-9777-6f5b84a93a02" src="https://github.com/user-attachments/assets/b98bc7ff-826e-473a-870e-acc90ea1d406" />
 <img width="270" height="123" alt="1958cf3d-d75f-4419-af1e-bfdbfe9fe7a9" src="https://github.com/user-attachments/assets/544b8f76-6694-4b6b-b098-67df52b44fda" />
 <img width="530" height="348" alt="df786f27-e4bb-45fd-bb3c-cf93b5ea6b2f" src="https://github.com/user-attachments/assets/864a1074-b490-4f8f-8724-c06da94f385d" />
-<img width="461" height="292" alt="51d09667-f383-4414-9acc-af39631bd84c" src="https://github.com/user-attachments/assets/c6df8ebb-32e8-4707-af65-bcb7f3abe9a2" />
+
